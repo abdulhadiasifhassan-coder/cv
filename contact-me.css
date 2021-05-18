@@ -1,0 +1,26 @@
+.backbtn {
+  background-color: #fa8072;
+  border-radius: 5px;
+  display: inline-block;
+  border: none;
+  font-size: 20px;
+  padding: 10px
+}
+
+.backbtn:hover {
+  cursor: pointer;
+}
+
+.backbtnform {
+  padding-left: 15px;
+}
+
+.contactme {
+  display: inline-block;
+  padding-left: 20px;
+  padding-right: 10px;
+  padding-top: 2px;
+  padding-bottom: 5px;
+  border-radius: 5px;
+  background-color: lightblue;
+}
